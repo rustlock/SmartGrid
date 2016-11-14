@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8">
+<consumers>
+	<consumer name = "Öjberget">
+		<location>
+			<lat>63.036866</lat>
+			<long>21.567760</long>
+		</location>
+		<defaultvalue></defaultvalue>
+	</consumer>
+</consumers>

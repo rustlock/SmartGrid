@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8">
+<powerplants>
+	<plant name="Sundom tuulivoimala">
+		<location>
+			<lat>63.067013</lat>
+			<long>21.584530</long>
+		</location>
+        <output>3.6</output>
+        <icon></icon>
+    </plant>
+	<plant name="Sundom skola & dagis">
+		<location>
+			<lat>63.040506</lat>
+			<long>21.558115</long>
+		</location>
+        <output>0.0283</output>
+        <icon></icon>
+    </plant>
+</powerplants>
+						

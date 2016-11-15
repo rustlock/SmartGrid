@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<markers>
+	<marker label="Alavieska" information="Tuulivoimala" Latitude="64.1653644" Longitude="24.3077578"/>
+	<marker label="Hamina, Summa phase IIa (Hailikari ja Koirakari)" information="Tuulivoimala" Latitude="60.5692028" Longitude="27.1938458"/>
+	<marker label="Ii, Myllykangas" information="Tuulivoimala" Latitude="65.5364016" Longitude="25.2513437"/>
+	<marker label="Kalajoki, Jokela" information="Tuulivoimala" Latitude="64.1371483" Longitude="23.9138704"/>
+	<marker label="Kalajoki, Mustilankangas I" information="Tuulivoimala" Latitude="64.2578332" Longitude="23.9475943"/>
+	<marker label="Merijarvi, Pyhajoki, Pyhankoski" information="Tuulivoimala" Latitude="64.2972365" Longitude="24.4465313"/>
+	<marker label="Pori, Kirrinsanta" information="Tuulivoimala" Latitude="61.6396288" Longitude="21.6613114"/>
+	<marker label="Posio, Saukkovaara" information="Tuulivoimala" Latitude="66.1106236" Longitude="28.1674045"/>
+	<marker label="Siikajoki, Vartinoja I" information="Tuulivoimala" Latitude="64.7920014" Longitude="24.9073914"/>
+	<marker label="Vampula, Huittinen" information="Tuulivoimala" Latitude="61.0220010" Longitude="22.7039443"/>
+	<marker label="Vahakyro, Torkkola" information="Tuulivoimala" Latitude="63.0667910" Longitude="22.0248238"/>
+	<marker label="Ylivieska, Pajukoski" information="Tuulivoimala" Latitude="63.9741549" Longitude="24.5392092"/>
+	<marker label="Ylivieska, Pajukoski" information="Tuulivoimala" Latitude="63.9741549" Longitude="24.5392092"/>
+	<marker label="Eckero" information="Tuulivoimala" Latitude="60.2231622" Longitude="19.5595374"/>
+	<marker label="Haapajarvi" information="Tuulivoimala" Latitude="63.7486624" Longitude="25.3180682"/>
+	<marker label="Hammarland" information="Tuulivoimala" Latitude="60.2163990" Longitude="19.7402399"/>
+	<marker label="Kalajoki, Etelankyla" information="Tuulivoimala" Latitude="64.249629," Longitude="23.9563017"/>
+	<marker label="Kalajoki, Mustilankangas II" information="Tuulivoimala" Latitude="64.2578332" Longitude="23.9475943"/>
+	<marker label="Kalajoki, Tohkoja" information="Tuulivoimala" Latitude="64.3333402" Longitude="23.9809168"/>
+	<marker label="Kittila-Sodankyla, Kuolavaara-Keulakkopaa" information="Tuulivoimala" Latitude="67.6533776" Longitude="24.9126091"/>
+	<marker label="Kokkola, Ykspihlaja" information="Tuulivoimala" Latitude="63.8408970" Longitude="23.0419527"/>
+	<marker label="Lotlax, Voyri" information="Tuulivoimala" Latitude="63.1743532" Longitude="22.2028143"/>
+	<marker label="Narpio, Pjelax" information="Tuulivoimala" Latitude="62.3924497" Longitude="21.3758287"/>
+	<marker label="Uusikaupunki, Muntila" information="Tuulivoimala" Latitude="60.6813251" Longitude="21.3827260"/>
+	<marker label="Ypaja, Jokioinen, Humppila, Tyrinselka" information="Tuulivoimala" Latitude="60.8037527" Longitude="23.2819183"/>
+	<marker label="Alajarvi" information="Tuulivoimala" Latitude="63.0001054" Longitude="23.8159263"/>
+	<marker label="Alajarvi, Moksy" information="Tuulivoimala" Latitude="63.0376971" Longitude="24.2463702"/>
+	<marker label="Haukineva, Jalasjarvi" information="Tuulivoimala" Latitude="62.5228895" Longitude="22.9847607"/>
+	<marker label="Haukipudas, Ketunmaankangas" information="Tuulivoimala" Latitude="65.2473336" Longitude="25.4133381"/>
+	<marker label="Ilmajoki, Kurikka" information="Tuulivoimala" Latitude="62.6990221" Longitude="22.5111619"/>
+	<marker label="Inkoo, Barosund" information="Tuulivoimala" Latitude="59.9767644" Longitude="23.8818775"/>
+	<marker label="Juva" information="Tuulivoimala" Latitude="61.8947473" Longitude="27.8617615"/>
+	<marker label="Jyvaskyla (Korpilahti), Maatianvuori" information="Tuulivoimala" Latitude="62.0209932" Longitude="25.5717816"/>
+	<marker label="Kalajoki, Tynka" information="Tuulivoimala" Latitude="64.2036138" Longitude="24.0350597"/>
+	<marker label="Kangasala, Tiihala" information="Tuulivoimala" Latitude="61.4303490" Longitude="24.1019061"/>
+	<marker label="Kauhajoki, Mustaisneva" information="Tuulivoimala" Latitude="62.3985384" Longitude="21.9797347"/>
+	<marker label="Kauhava, Alaharma" information="Tuulivoimala" Latitude="63.2478837" Longitude="22.8543670"/>
+	<marker label="Kemionsaari, Nordano-Lovbole" information="Tuulivoimala" Latitude="60.1648719" Longitude="22.7276644"/>
+	<marker label="Korppoo, Norrstuga" information="Tuulivoimala" Latitude="60.2018363" Longitude="21.5711376"/>
+	<marker label="Korsnas, Edsvik" information="Tuulivoimala" Latitude="62.7621206" Longitude="21.2066659"/>
+	<marker label="Kortesjarvi, Konttikangas" information="Tuulivoimala" Latitude="63.3021137" Longitude="23.1574444"/>
+	<marker label="Kotka, Mussalo II" information="Tuulivoimala" Latitude="60.4666227" Longitude="26.9459998"/>
+	<marker label="Kristiinankaupunki, Karhusaari" information="Tuulivoimala" Latitude="62.2500000" Longitude="21.3333333"/>
+	<marker label="Kristiinankaupunki, Lappvarti" information="Tuulivoimala" Latitude="62.2450903" Longitude="21.5285783"/>
+	<marker label="Kristiinankaupunki, Metsala" information="Tuulivoimala" Latitude="62.0708084" Longitude="21.5247141"/>
+	<marker label="Leppavirta, Saahkarlahti" information="Tuulivoimala" Latitude="62.3471750" Longitude="28.0869894"/>
+	<marker label="Loimaa, Viipurin tila" information="Tuulivoimala" Latitude="60.8502174" Longitude="23.0591033"/>
+	<marker label="Voyri" information="Tuulivoimala" Latitude="63.1284772" Longitude="22.2506582"/>
+	<marker label="Maalahti" information="Tuulivoimala" Latitude="62.9452713" Longitude="21.5476981"/>
+	<marker label="Nousiainen, Kustavintie" information="Tuulivoimala" Latitude="60.6056599" Longitude="21.9314430"/>
+	<marker label="Nykarleby, Kropuln" information="Tuulivoimala" Latitude="63.5217598" Longitude="22.5303558"/>
+	<marker label="Pihtipudas, ilosjoki" information="Tuulivoimala" Latitude="63.3045588" Longitude="25.6509782"/>
+	<marker label="Raahe, Hietakangas, Balkintie" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Raahe, Sarvakangas" information="Tuulivoimala" Latitude="64.5563452" Longitude="24.4159912"/>
+	<marker label="Raahe-Siikajoki Mastokangas" information="Tuulivoimala" Latitude="64.4368655" Longitude="25.3706667"/>
+	<marker label="Saarijarvi, Soidinmaki" information="Tuulivoimala" Latitude="62.6473336" Longitude="24.9389189"/>
+	<marker label="Siikajoki, Isoneva" information="Tuulivoimala" Latitude="64.4757795" Longitude="25.2244230"/>
+	<marker label="Siikajoki, Vartinoja II" information="Tuulivoimala" Latitude="64.8155446" Longitude="24.7665728"/>
+	<marker label="Simo,  Leipio" information="Tuulivoimala" Latitude="65.6876283" Longitude="25.0536490"/>
+	<marker label="Sodankyla, Palkisvaara-Kannusvaara" information="Tuulivoimala" Latitude="67.4159990" Longitude="26.5889727"/>
+	<marker label="Somero, Palmanharju" information="Tuulivoimala" Latitude="60.6285429" Longitude="23.5145252"/>
+	<marker label="Sysma, Rekolanvuori" information="Tuulivoimala" Latitude="61.5038896" Longitude="25.6832060"/>
+	<marker label="Taivassalo, Viiainen" information="Tuulivoimala" Latitude="60.5412000" Longitude="21.6195206"/>
+	<marker label="Tervola, Loylyvaara" information="Tuulivoimala" Latitude="66.0805024" Longitude="24.8109033"/>
+	<marker label="Uusikaupunki, Hyttyskari ja Hangonsaari" information="Tuulivoimala" Latitude="60.8002023" Longitude="21.4225421"/>
+	<marker label="Vihanti, Ronionkorpi" information="Tuulivoimala" Latitude="64.4324685" Longitude="25.0787814"/>
+	<marker label="Haapajarvi, Sauviinmaki" information="Tuulivoimala" Latitude="63.7486624" Longitude="25.3180682"/>
+	<marker label="Hartola, Putkijarvi, Kinkkulanmaki" information="Tuulivoimala" Latitude="61.5798138" Longitude="26.0201798"/>
+	<marker label="Hartola, Vuorenkyla" information="Tuulivoimala" Latitude="61.7370223" Longitude="25.8849952"/>
+	<marker label="Humppila" information="Tuulivoimala" Latitude="60.9242263" Longitude="23.3711033"/>
+	<marker label="Hyrynsalmi" information="Tuulivoimala" Latitude="64.6791446" Longitude="28.4840298"/>
+	<marker label="Hyrynsalmi, Lumivaara" information="Tuulivoimala" Latitude="64.6124766" Longitude="28.2560127"/>
+	<marker label="Ii, Isokangas" information="Tuulivoimala" Latitude="65.3166667" Longitude="25.4333333"/>
+	<marker label="Juuka, Tynnyrivaara" information="Tuulivoimala" Latitude="63.2432771" Longitude="29.2545883"/>
+	<marker label="Jamijarvi, Lauttakangas" information="Tuulivoimala" Latitude="61.8207390" Longitude="22.7963537"/>
+	<marker label="Jamijarvi, Ratipera" information="Tuulivoimala" Latitude="61.8660533" Longitude="22.7192589"/>
+	<marker label="Jamsa" information="Tuulivoimala" Latitude="61.8638263" Longitude="25.1896173"/>
+	<marker label="Kalajoki, Himanka" information="Tuulivoimala" Latitude="64.0615492" Longitude="23.6542166"/>
+	<marker label="Kannus, Kuuronkallio" information="Tuulivoimala" Latitude="63.9004126" Longitude="23.9167446"/>
+	<marker label="Karijoki, Kakkori" information="Tuulivoimala" Latitude="62.3078487" Longitude="21.7068802"/>
+	<marker label="Karijoki, Perkio" information="Tuulivoimala" Latitude="62.3911874" Longitude="21.6314728"/>
+	<marker label="Karstula" information="Tuulivoimala" Latitude="62.8777636" Longitude="24.8009317"/>
+	<marker label="Karstula, Vihisuo" information="Tuulivoimala" Latitude="62.9149822" Longitude="24.5479776"/>
+	<marker label="Karvia, Kantin alue" information="Tuulivoimala" Latitude="62.1331515" Longitude="22.5581200"/>
+	<marker label="Kauhajoki, Suolakangas" information="Tuulivoimala" Latitude="62.4022950" Longitude="22.3405633"/>
+	<marker label="Kemionsaari, Grasbole" information="Tuulivoimala" Latitude="60.1725461" Longitude="22.6030661"/>
+	<marker label="Kemionsaari, Stusnas" information="Tuulivoimala" Latitude="60.0913787" Longitude="22.4893028"/>
+	<marker label="Kinnula, Hautakangas" information="Tuulivoimala" Latitude="63.2965814" Longitude="25.0242390"/>
+	<marker label="Korsnas, Granskog" information="Tuulivoimala" Latitude="62.8235825" Longitude="21.2667056"/>
+	<marker label="Korsnas" information="Tuulivoimala" Latitude="62.7845869" Longitude="21.1886865"/>
+	<marker label="Korsnas, Sodra" information="Tuulivoimala" Latitude="62.7288081" Longitude="21.0685713"/>
+	<marker label="Kortesjarvi, Kauhava, Purmojarvi" information="Tuulivoimala" Latitude="63.3021137" Longitude="23.1574444"/>
+	<marker label="Kortesjarvi, Kauhava, Salo" information="Tuulivoimala" Latitude="63.3021137" Longitude="23.1574444"/>
+	<marker label="Koski - Marttila, Verhonkulma" information="Tuulivoimala" Latitude="60.6879653" Longitude="23.0840618"/>
+	<marker label="Kotka" information="Tuulivoimala" Latitude="60.4666227" Longitude="26.9459998"/>
+	<marker label="Kristiinankanpunki, Isojoki, Lakiakangas" information="Tuulivoimala" Latitude="62.1938022" Longitude="21.7523060"/>
+	<marker label="Kristiinankaupunki, Isojoki" information="Tuulivoimala" Latitude="62.2201527" Longitude="21.4679564"/>
+	<marker label="Kristiinankaupunki, Lapvaarti " information="Tuulivoimala" Latitude="62.2450903" Longitude="21.5285783"/>
+	<marker label="Kristiinankaupunki, Vanha Narpiontie" information="Tuulivoimala" Latitude="62.3149381" Longitude="21.3945445"/>
+	<marker label="Kristiinankaupunki, Vastervik" information="Tuulivoimala" Latitude="62.0574401" Longitude="21.4858625"/>
+	<marker label="Kurikka, Lehtivuoret" information="Tuulivoimala" Latitude="62.6171324" Longitude="22.3987049"/>
+	<marker label="Kurikka, Ponsivuori" information="Tuulivoimala" Latitude="62.6171324" Longitude="22.3987049"/>
+	<marker label="Kurikka, Rasakangas" information="Tuulivoimala" Latitude="62.6171324" Longitude="22.3987049"/>
+	<marker label="Kuusamo, Makiaho" information="Tuulivoimala" Latitude="65.9970678" Longitude="28.7401636"/>
+	<marker label="Kyyjarvi, Hallakangas" information="Tuulivoimala" Latitude="63.1156905" Longitude="24.5742565"/>
+	<marker label="Kyyjarvi, Peuralinna" information="Tuulivoimala" Latitude="63.0764746" Longitude="24.4092120"/>
+	<marker label="Laihia, Rajavuori" information="Tuulivoimala" Latitude="62.9761152" Longitude="22.0114720"/>
+	<marker label="Lapua" information="Tuulivoimala" Latitude="62.9688786" Longitude="23.0071054"/>
+	<marker label="Lemi, Rutaho" information="Tuulivoimala" Latitude="61.1511966" Longitude="27.7353638"/>
+	<marker label="Lestijarvi" information="Tuulivoimala" Latitude="63.5272366" Longitude="24.6581193"/>
+	<marker label="Lieksa, Julkuvaara" information="Tuulivoimala" Latitude="63.1066550" Longitude="30.2173488"/>
+	<marker label="Loviisa, Orrberget" information="Tuulivoimala" Latitude="60.4570666" Longitude="26.2246714"/>
+	<marker label="Loviisa, Rojsjo" information="Tuulivoimala" Latitude="60.5035163" Longitude="26.0428865"/>
+	<marker label="Lumijoki" information="Tuulivoimala" Latitude="64.8373411" Longitude="25.1864597"/>
+	<marker label="Luvia, Lemlahti" information="Tuulivoimala" Latitude="61.3187229" Longitude="21.5896397"/>
+	<marker label="Luvia, Martinpalo" information="Tuulivoimala" Latitude="61.4019710" Longitude="21.6564814"/>
+	<marker label="Maalahti, Longmo" information="Tuulivoimala" Latitude="62.9452713" Longitude="21.5476981"/>
+	<marker label="Maalahti, Ribacken" information="Tuulivoimala" Latitude="62.8233734" Longitude="21.5786610"/>
+	<marker label="Maalahti, Sidlandet" information="Tuulivoimala" Latitude="62.9540478" Longitude="21.4397991"/>
+	<marker label="Merikarvia, Korvenneva" information="Tuulivoimala" Latitude="61.9535471" Longitude="21.5542033"/>
+	<marker label="Merikarvia, Koortila" information="Tuulivoimala" Latitude="61.7750909" Longitude="21.5341104"/>
+	<marker label="Merikarvia, Trolssi, Korpi-Matti" information="Tuulivoimala" Latitude="61.8582987" Longitude="21.5004232"/>
+	<marker label="Nivala, Kukonaho " information="Tuulivoimala" Latitude="63.9284310" Longitude="24.9642446"/>
+	<marker label="Nivala, Sarjankyla, Hirsistonkangas" information="Tuulivoimala" Latitude="63.9284310" Longitude="24.9642446"/>
+	<marker label="Narpio, Bole" information="Tuulivoimala" Latitude="62.4328903" Longitude="21.3511476"/>
+	<marker label="Narpio, Norrskogen" information="Tuulivoimala" Latitude="62.6337727" Longitude="21.4788226"/>
+	<marker label="Narpio, Pirttikyla" information="Tuulivoimala" Latitude="62.7128861" Longitude="21.6123127"/>
+	<marker label="Oulainen, Maaselankangas" information="Tuulivoimala" Latitude="64.2676156" Longitude="24.8159482"/>
+	<marker label="Paimio, Salo, Huso, Poyla" information="Tuulivoimala" Latitude="60.3965575" Longitude="22.7575168"/>
+	<marker label="Paltamo, Teerivaara" information="Tuulivoimala" Latitude="64.4030430" Longitude="27.8381469"/>
+	<marker label="Perho, Alajoki" information="Tuulivoimala" Latitude="63.1632981" Longitude="24.4056895"/>
+	<marker label="Perho, Limako" information="Tuulivoimala" Latitude="63.2150997" Longitude="24.4158073"/>
+	<marker label="Pihtipudas, Ilosjoki" information="Tuulivoimala" Latitude="63.3045588" Longitude="25.6509782"/>
+	<marker label="Pori, Jakkuvarkki" information="Tuulivoimala" Latitude="61.4580473" Longitude="21.6267344"/>
+	<marker label="Posio, Murtotuuli" information="Tuulivoimala" Latitude="66.1106236" Longitude="28.1674045"/>
+	<marker label="Pudasjarvi, Tolpanvaara" information="Tuulivoimala" Latitude="65.3618533" Longitude="26.9858550"/>
+	<marker label="Punkalaidun, Isosuo" information="Tuulivoimala" Latitude="61.0833242" Longitude="23.0104698"/>
+	<marker label="Pyhtaa, Struka" information="Tuulivoimala" Latitude="60.4703995" Longitude="26.5670151"/>
+	<marker label="Pyhtaa, Heinsuo" information="Tuulivoimala" Latitude="60.5086270" Longitude="26.8235773"/>
+	<marker label="Pyhtaa, Purola" information="Tuulivoimala" Latitude="60.4634988" Longitude="26.6299421"/>
+	<marker label="Pyhajoki , Silovuori" information="Tuulivoimala" Latitude="64.4650530" Longitude="24.2625148"/>
+	<marker label="Pyhajoki, Liminkakyla" information="Tuulivoimala" Latitude="64.4113091" Longitude="24.6369288"/>
+	<marker label="Pyhajoki, Maukarinkangas" information="Tuulivoimala" Latitude="64.4650530" Longitude="24.2625148"/>
+	<marker label="Pyhajoki, Makikangas II" information="Tuulivoimala" Latitude="64.4650530" Longitude="24.2625148"/>
+	<marker label="Pyhajoki, Paltusmaki" information="Tuulivoimala" Latitude="64.4650530" Longitude="24.2625148"/>
+	<marker label="Pyhajoki, Parhalahti" information="Tuulivoimala" Latitude="64.4946270" Longitude="24.3213994"/>
+	<marker label="Pyhajarvi, Vuohtomaki" information="Tuulivoimala" Latitude="63.5675448" Longitude="26.0658386"/>
+	<marker label="Raahe, Ketunpera" information="Tuulivoimala" Latitude="64.5891403" Longitude="24.5246898"/>
+	<marker label="Raahe, Nikkarinkaarto" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Raahe, Somerokangas" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Raasepori" information="Tuulivoimala" Latitude="59.9744373" Longitude="23.4355071"/>
+	<marker label="Rautalampi, Tervalamminvuori" information="Tuulivoimala" Latitude="62.6243044" Longitude="26.8277487"/>
+	<marker label="Ruokolahti, Kerimaki" information="Tuulivoimala" Latitude="61.8596796" Longitude="29.2722799"/>
+	<marker label="Saarijarvi, Riekko" information="Tuulivoimala" Latitude="62.6999962" Longitude="25.1100074"/>
+	<marker label="Saarijarvi, Riekko" information="Tuulivoimala" Latitude="62.6999962" Longitude="25.1100074"/>
+	<marker label="Raasepori" information="Tuulivoimala" Latitude="59.9744373" Longitude="23.4355071"/>
+	<marker label="Sauvo, Steningen" information="Tuulivoimala" Latitude="60.3064650" Longitude="22.5310980"/>
+	<marker label="Savonlinna, Syvalahti" information="Tuulivoimala" Latitude="62.3207157" Longitude="29.1340021"/>
+	<marker label="Sievi" information="Tuulivoimala" Latitude="63.9060413" Longitude="24.5144505"/>
+	<marker label="Sievi" information="Tuulivoimala" Latitude="63.9060413" Longitude="24.5144505"/>
+	<marker label="Siikajoki, Navettakangas" information="Tuulivoimala" Latitude="64.6940215" Longitude="24.8077503"/>
+	<marker label="Sodankyla, Kelujarvi, Palkivaara-Kannusvaara" information="Tuulivoimala" Latitude="67.4159990" Longitude="26.5889727"/>
+	<marker label="Soini, Konttisuo" information="Tuulivoimala" Latitude="62.7292260" Longitude="24.4295647"/>
+	<marker label="Suomussalmi ja Hyrynsalmi, Kivivaara-Peuravaara" information="Tuulivoimala" Latitude="64.8841107" Longitude="28.9116560"/>
+	<marker label="Tammela, Forssa, Kiimassuo" information="Tuulivoimala" Latitude="60.7859033" Longitude="23.5909617"/>
+	<marker label="Tervola, Hevosselka" information="Tuulivoimala" Latitude="66.0805024" Longitude="24.8109033"/>
+	<marker label="Teuva" information="Tuulivoimala" Latitude="62.4795347" Longitude="21.7391117"/>
+	<marker label="Teuva, Kurikka, Saunamaa, Viiatti" information="Tuulivoimala" Latitude="62.4795347" Longitude="21.7391117"/>
+	<marker label="Tornio, Roytta, Puuska II" information="Tuulivoimala" Latitude="65.8444927" Longitude="24.1527255"/>
+	<marker label="Uusikaupunki-Vehmaa, Santtio" information="Tuulivoimala" Latitude="60.8002023" Longitude="21.4225421"/>
+	<marker label="Vesanto, Oinaskyla" information="Tuulivoimala" Latitude="63.0045670" Longitude="26.3162930"/>
+	<marker label="Ylitornio, Revasvaara" information="Tuulivoimala" Latitude="66.3192661" Longitude="23.6709696"/>
+	<marker label="Ylivieska, Tuomipera" information="Tuulivoimala" Latitude="64.1288910" Longitude="24.7399844"/>
+	<marker label="Kajaani, Piiparimaen-Lammaslamminkangas (Pyhanta, Kajaani, Vierema)" information="Tuulivoimala" Latitude="63.7430862" Longitude="27.0014540"/>
+	<marker label="Kannus, Kalajoki, Kokkola, Mutkalammi " information="Tuulivoimala" Latitude="64.0487734" Longitude="23.9450642"/>
+	<marker label="Kristiinankaupunki, Dagsmark-Lappfjard" information="Tuulivoimala" Latitude="62.2384647" Longitude="21.6064590"/>
+	<marker label="Mustasaari, Raippaluoto" information="Tuulivoimala" Latitude="63.2500000" Longitude="21.4000000"/>
+	<marker label="Narpio, Kalax" information="Tuulivoimala" Latitude="62.4871522" Longitude="21.2937520"/>
+	<marker label="Narpio, Pjelax" information="Tuulivoimala" Latitude="62.3924497" Longitude="21.3758287"/>
+	<marker label="Raahe, Hummastinvaara" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Raahe, Yhteinenkangas" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Soini" information="Tuulivoimala" Latitude="62.8731978" Longitude="24.2063742"/>
+	<marker label="Uusikaarlepyy &amp; Oravainen, Sandbacka" information="Tuulivoimala" Latitude="63.5217598" Longitude="22.5303558"/>
+	<marker label="Foglo, Rodskar" information="Tuulivoimala" Latitude="59.9995205" Longitude="20.2971573"/>
+	<marker label="Hamina -Kotka, Mayramaki" information="Tuulivoimala" Latitude="60.5692028" Longitude="27.1938458"/>
+	<marker label="Hanko, Hankoniemi (Santala)" information="Tuulivoimala" Latitude="59.8573706" Longitude="23.1058438"/>
+	<marker label="Hyrynsalmi, Lumivaara" information="Tuulivoimala" Latitude="64.6124766" Longitude="28.2560127"/>
+	<marker label="Kalajoki, Pirttineva" information="Tuulivoimala" Latitude="64.0804205" Longitude="23.8484101"/>
+	<marker label="Kalajoki, Torvenkyla, Kokkokangas" information="Tuulivoimala" Latitude="64.2578332" Longitude="23.9475943"/>
+	<marker label="Karijoki, Isojoki, Rajamaenkyla" information="Tuulivoimala" Latitude="62.2734498" Longitude="21.9125965"/>
+	<marker label="Kemijarvi, Nuolivaara" information="Tuulivoimala" Latitude="66.8666667" Longitude="27.8833333"/>
+	<marker label="Kemionsaari, Olofsgord" information="Tuulivoimala" Latitude="60.1648719" Longitude="22.7276644"/>
+	<marker label="Korsnas, Moikipaa-Petolahti" information="Tuulivoimala" Latitude="62.8386770" Longitude="21.4243240"/>
+	<marker label="Kotka, Karhuniemi" information="Tuulivoimala" Latitude="60.4666227" Longitude="26.9459998"/>
+	<marker label="Kristiinankaupunki Pohjoinen" information="Tuulivoimala" Latitude="62.1784450" Longitude="21.4657364"/>
+	<marker label="Kristiinankaupunki, Harkmeri" information="Tuulivoimala" Latitude="62.1596655" Longitude="21.4338374"/>
+	<marker label="Laihia, Isokyro, Kattiharju" information="Tuulivoimala" Latitude="62.9761152" Longitude="22.0114720"/>
+	<marker label="Narpio, Bjorkliden-Hedet" information="Tuulivoimala" Latitude="62.4728387" Longitude="21.3371527"/>
+	<marker label="Narpio, Branntrask" information="Tuulivoimala" Latitude="62.4728387" Longitude="21.3371527"/>
+	<marker label="Narpio, Bole, Pjelax" information="Tuulivoimala" Latitude="62.4377831" Longitude="21.3659733"/>
+	<marker label="Pello, Palovaara" information="Tuulivoimala" Latitude="66.7543598" Longitude="24.3046685"/>
+	<marker label="Pori, Ahlaisten Lammi" information="Tuulivoimala" Latitude="61.4851997" Longitude="21.7974444"/>
+	<marker label="Pyhajoki, Karhunnevankangas" information="Tuulivoimala" Latitude="64.3537080" Longitude="24.2552567"/>
+	<marker label="Pyhajoki, Oltava" information="Tuulivoimala" Latitude="64.4386263" Longitude="24.6495108"/>
+	<marker label="Pyhajoki, Polusjarvi (Liminkakyla)" information="Tuulivoimala" Latitude="64.4650530" Longitude="24.2625148"/>
+	<marker label="Pyhajarvi, Murtomaki" information="Tuulivoimala" Latitude="63.6811993" Longitude="25.9815064"/>
+	<marker label="Raahe, Kopsa III" information="Tuulivoimala" Latitude="64.5623039" Longitude="24.7454696"/>
+	<marker label="Siikajoki, Isoneva II" information="Tuulivoimala" Latitude="64.8155446" Longitude="24.7665728"/>
+	<marker label="Siikajoki, Kangastuuli" information="Tuulivoimala" Latitude="64.8155446" Longitude="24.7665728"/>
+	<marker label="Siikajoki, Karhukangas" information="Tuulivoimala" Latitude="64.6342405" Longitude="25.0274717"/>
+	<marker label="Simo, Tikkala" information="Tuulivoimala" Latitude="65.6808729" Longitude="24.8704236"/>
+	<marker label="Toholampi, Lansi" information="Tuulivoimala" Latitude="63.7716108" Longitude="24.2477979"/>
+	<marker label="Toholampi-Lestijarvi" information="Tuulivoimala" Latitude="63.5272366" Longitude="24.6581193"/>
+	<marker label="Uusikaarlepyy ja Voyri, Storbotet" information="Tuulivoimala" Latitude="63.5217598" Longitude="22.5303558"/>
+	<marker label="Vaasa, Mustasaari, Merkkikallio" information="Tuulivoimala" Latitude="63.0951412" Longitude="21.6165128"/>
+	<marker label="Alajarvi" information="Tuulivoimala" Latitude="63.0001054" Longitude="23.8159263"/>
+	<marker label="Alavieska, Tolospera" information="Tuulivoimala" Latitude="64.2618759" Longitude="24.2622313"/>
+	<marker label="Haapajarvi, Valikangas" information="Tuulivoimala" Latitude="63.6390006" Longitude="25.2022636"/>
+	<marker label="Haapavesi, Hankilanneva" information="Tuulivoimala" Latitude="63.9574803" Longitude="25.5247581"/>
+	<marker label="Halsua, Kokonkangas" information="Tuulivoimala" Latitude="63.3689301" Longitude="24.2392782"/>
+	<marker label="Halsua, Venetjoki" information="Tuulivoimala" Latitude="63.4834875" Longitude="24.1883335"/>
+	<marker label="Honkajoki, Paholampi" information="Tuulivoimala" Latitude="61.9605518" Longitude="22.2592341"/>
+	<marker label="Huittinen, Kiimasuo" information="Tuulivoimala" Latitude="61.2939314" Longitude="22.6142735"/>
+	<marker label="Huittinen, Taraskallio" information="Tuulivoimala" Latitude="61.1760632" Longitude="22.6980710"/>
+	<marker label="Kalajoki, Juurakko" information="Tuulivoimala" Latitude="64.3298462" Longitude="24.1027214"/>
+	<marker label="Kalajoki, Lampinneva" information="Tuulivoimala" Latitude="64.2958566" Longitude="24.0320689"/>
+	<marker label="Kauhajoki, Parjakanneva" information="Tuulivoimala" Latitude="62.3939944" Longitude="22.1083534"/>
+	<marker label="Kauhajoki, Rojunneva" information="Tuulivoimala" Latitude="62.4092397" Longitude="22.0772363"/>
+	<marker label="Kemionsaari, Misskarr, Vastanfjardin kyla" information="Tuulivoimala" Latitude="60.1648719" Longitude="22.7276644"/>
+	<marker label="Konnevesi, Halmemaki &amp; Jouhtimaki" information="Tuulivoimala" Latitude="62.6277663" Longitude="26.2938543"/>
+	<marker label="Kotka, Kotkasaari" information="Tuulivoimala" Latitude="60.4666227" Longitude="26.9459998"/>
+	<marker label="Kotka, Mussalo" information="Tuulivoimala" Latitude="60.4453985" Longitude="26.8923858"/>
+	<marker label="Kouvola, Anjalankoski, Hyotyvirta" information="Tuulivoimala" Latitude="60.7500000" Longitude="26.8236110"/>
+	<marker label="Kurikka, Pirttimaa" information="Tuulivoimala" Latitude="62.5148933" Longitude="22.4529954"/>
+	<marker label="Kuusamo, Olkimaanvaara" information="Tuulivoimala" Latitude="65.9645670" Longitude="29.1888270"/>
+	<marker label="Kyyjarvi, Harsunneva" information="Tuulivoimala" Latitude="63.0234976" Longitude="24.5510431"/>
+	<marker label="Koylio, Korpilevonmaki" information="Tuulivoimala" Latitude="61.1573959" Longitude="22.4392282"/>
+	<marker label="Loimaa, Alastaro" information="Tuulivoimala" Latitude="60.9519814" Longitude="22.8619269"/>
+	<marker label="Loimaa, Kirveskallio" information="Tuulivoimala" Latitude="60.8502174" Longitude="23.0591033"/>
+	<marker label="Lumijoki, Selkamatala tai Nalkamatala" information="Tuulivoimala" Latitude="64.8373411" Longitude="25.1864597"/>
+	<marker label="Luvia, Luodonkyla" information="Tuulivoimala" Latitude="61.3550120" Longitude="21.6059160"/>
+	<marker label="Merikarvia, Sikarounikko" information="Tuulivoimala" Latitude="61.8582987" Longitude="21.5004232"/>
+	<marker label="Narpio, Finnsatret" information="Tuulivoimala" Latitude="62.5588453" Longitude="21.2107407"/>
+	<marker label="Orimattila, Isovuori" information="Tuulivoimala" Latitude="60.8017134" Longitude="25.7288398"/>
+	<marker label="Oripaa" information="Tuulivoimala" Latitude="60.8560471" Longitude="22.6973045"/>
+	<marker label="Poytya, Ortenoja" information="Tuulivoimala" Latitude="60.8170272" Longitude="22.6282347"/>
+	<marker label="Poytya, Santinkulma" information="Tuulivoimala" Latitude="60.7198324" Longitude="22.6036929"/>
+	<marker label="Raahe ja Siikajoki" information="Tuulivoimala" Latitude="64.8155446" Longitude="24.7665728"/>
+	<marker label="Seinajoki" information="Tuulivoimala" Latitude="62.7945430" Longitude="22.8278264"/>
+	<marker label="Sievi, Tuppuraneva" information="Tuulivoimala" Latitude="63.8915542" Longitude="24.4357122"/>
+	<marker label="Siikajoki, Kivivaara" information="Tuulivoimala" Latitude="64.8155446" Longitude="24.7665728"/>
+	<marker label="Tornio , Yli-Kaakamo" information="Tuulivoimala" Latitude="65.8105458" Longitude="24.4300718"/>
+	<marker label="Uusikaupunki, Lokalahti" information="Tuulivoimala" Latitude="60.6811421" Longitude="21.4656175"/>
+	<marker label="Kotka, Mussalo" information="Tuulivoimala" Latitude="60.4453985" Longitude="26.8923858"/>
+	<marker label="Luhanka, Latamaki" information="Tuulivoimala" Latitude="61.7968844" Longitude="25.7035514"/>
+	<marker label="Lumijoki, Varjakka" information="Tuulivoimala" Latitude="64.9120318" Longitude="25.1047798"/>
+	<marker label="Narpio, Svalskulla" information="Tuulivoimala" Latitude="62.3351143" Longitude="21.3619736"/>
+	<marker label="Peraseinajoki" information="Tuulivoimala" Latitude="62.5619166" Longitude="23.0621522"/>
+	<marker label="Pori, Hilskansaari" information="Tuulivoimala" Latitude="61.6076643" Longitude="21.5155878"/>
+	<marker label="Pyhajoki, Makikangas" information="Tuulivoimala" Latitude="64.3606884" Longitude="24.0599849"/>
+	<marker label="Raahe, Kopsa II-vaihe" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Raahe, satama I" information="Tuulivoimala" Latitude="64.6492282" Longitude="24.4110804"/>
+	<marker label="Salo Marynummi" information="Tuulivoimala" Latitude="60.4361863" Longitude="23.0454806"/>
+	<marker label="Siikainen, Janeskeidas" information="Tuulivoimala" Latitude="61.8429326" Longitude="21.7038973"/>
+	<marker label="Sodankyla, Joukhaisselka-Tuore Kulvakkoselka" information="Tuulivoimala" Latitude="67.4159990" Longitude="26.5889727"/>
+	<marker label="Ylivieska, Hirvineva" information="Tuulivoimala" Latitude="64.0296218" Longitude="24.8499923"/>
+	<marker label="Ylivieska, Pajukoski II" information="Tuulivoimala" Latitude="64.0721151" Longitude="24.5341779"/>
+	<marker label="Haapavesi, Rahkola" information="Tuulivoimala" Latitude="64.1367716" Longitude="24.9727187"/>
+	<marker label="Joensuu &amp; Kontiolahti, Ilvesvaara" information="Tuulivoimala" Latitude="62.8241281" Longitude="29.9735797"/>
+	<marker label="Kauhajoki, Voyrinkangas" information="Tuulivoimala" Latitude="62.3714477" Longitude="22.3693138"/>
+	<marker label="Kokkola, Ruotsalo - Korpilahti" information="Tuulivoimala" Latitude="63.8749320" Longitude="23.2912853"/>
+	<marker label="Kuusamo, Sarkiluoma, Maaninka" information="Tuulivoimala" Latitude="63.1551376" Longitude="27.2994232"/>
+	<marker label="Merikarvia" information="Tuulivoimala" Latitude="61.8582987" Longitude="21.5004232"/>
+	<marker label="Oulainen, Matkaniva" information="Tuulivoimala" Latitude="64.2412234" Longitude="25.0029175"/>
+	<marker label="Pyharanta, Laitila" information="Tuulivoimala" Latitude="60.9501559" Longitude="21.4446091"/>
+	<marker label="Tornio, Rajakangas" information="Tuulivoimala" Latitude="65.8444927" Longitude="24.1527255"/>
+	<marker label="Veteli, Valkiavedenkangas" information="Tuulivoimala" Latitude="63.4352279" Longitude="23.7242220"/>
+	<marker label="Enontekio, Lammasoaivi" information="Tuulivoimala" Latitude="68.7666667" Longitude="21.3000000"/>
+	<marker label="Espoo" information="Tuulivoimala" Latitude="60.2054911" Longitude="24.6559001"/>
+	<marker label="Iitti, Perheniemi, Mankala" information="Tuulivoimala" Latitude="60.8910749" Longitude="26.3360651"/>
+	<marker label="Ilmajoki, Mansikkavuori" information="Tuulivoimala" Latitude="62.7346099" Longitude="22.5708697"/>
+	<marker label="Kangasala, Kuhmalahti" information="Tuulivoimala" Latitude="61.4827249" Longitude="24.7052959"/>
+	<marker label="Karvia, Jalasjarvi, Ilvesjoki" information="Tuulivoimala" Latitude="62.2988586" Longitude="22.7341851"/>
+	<marker label="Kemionsaari, Povalsby" information="Tuulivoimala" Latitude="60.1648719" Longitude="22.7276644"/>
+	<marker label="Korsnas, Bredskaret" information="Tuulivoimala" Latitude="62.9000000" Longitude="21.2166667"/>
+	<marker label="Kouvola" information="Tuulivoimala" Latitude="60.8678860" Longitude="26.7041295"/>
+	<marker label="Lappeenranta, Muukonkangas" information="Tuulivoimala" Latitude="61.0549412" Longitude="28.1896259"/>
+	<marker label="Liminka" information="Tuulivoimala" Latitude="64.8098307" Longitude="25.4153328"/>
+	<marker label="Loviisa, Liljendal" information="Tuulivoimala" Latitude="60.5717591" Longitude="26.0508140"/>
+	<marker label="Maalahti " information="Tuulivoimala" Latitude="62.9452713" Longitude="21.5476981"/>
+	<marker label="Maalahti, Juthskogen" information="Tuulivoimala" Latitude="62.9452713" Longitude="21.5476981"/>
+	<marker label="Nykarleby, Klubbskatan" information="Tuulivoimala" Latitude="63.5217598" Longitude="22.5303558"/>
+	<marker label="Orimattila " information="Tuulivoimala" Latitude="60.8017134" Longitude="25.7288398"/>
+	<marker label="Pori, Mantyluoto" information="Tuulivoimala" Latitude="61.5918774" Longitude="21.4822772"/>
+	<marker label="Posio" information="Tuulivoimala" Latitude="66.1106236" Longitude="28.1674045"/>
+	<marker label="Rauma, ayho" information="Tuulivoimala" Latitude="61.1356627" Longitude="21.5523073"/>
+	<marker label="Rautalammi" information="Tuulivoimala" Latitude="61.7954025" Longitude="24.5241234"/>
+	<marker label="Saarijarvi, Kolkanlahti" information="Tuulivoimala" Latitude="62.7380600" Longitude="25.1738803"/>
+	<marker label="Sotkamo" information="Tuulivoimala" Latitude="64.1306547" Longitude="28.3904979"/>
+	<marker label="Tyrnava, Kolmikanta, Ylipaa" information="Tuulivoimala" Latitude="64.7638222" Longitude="25.6529944"/>
+	<marker label="Ullava" information="Tuulivoimala" Latitude="63.7045083" Longitude="23.8971971"/>
+	<marker label="Viitasaari, Mantyla" information="Tuulivoimala" Latitude="63.0521114" Longitude="26.1188082"/>
+	<marker label="Pietarsaari, Tehdasalue" information="Tuulivoimala" Latitude="63.6742439" Longitude="22.7125690"/>
+	<marker label="Kemi, Ajos" information="Tuulivoimala" Latitude="65.6758865" Longitude="24.5807973"/>
+	<marker label="Ii, Suurhiekka " information="Tuulivoimala" Latitude="65.2864911" Longitude="24.5917024"/>
+	<marker label="Haukipudas, Hoikka-Hiue / Luodeletto" information="Tuulivoimala" Latitude="65.1754787" Longitude="24.9691771"/>
+	<marker label="Haukipudas, Nimettomanmatala" information="Tuulivoimala" Latitude="65.2166667" Longitude="25.0000000"/>
+	<marker label="Kristiinankaupunki, Siipyy" information="Tuulivoimala" Latitude="62.0280340" Longitude="21.3373420"/>
+	<marker label="Pori, Pori offshore II" information="Tuulivoimala" Latitude="61.4851997" Longitude="21.7974444"/>
+	<marker label="Raahe, Maanahkiainen" information="Tuulivoimala" Latitude="64.6000000" Longitude="24.1833333"/>
+	<marker label="Tornio, Roytta III offshore" information="Tuulivoimala" Latitude="65.8444927" Longitude="24.1527255"/>
+	<marker label="Inkoo / Raasepori" information="Tuulivoimala" Latitude="60.0458754" Longitude="24.0045754"/>
+	<marker label="Kokkola" information="Tuulivoimala" Latitude="63.8384908" Longitude="23.1304813"/>
+	<marker label="Kristiinankaupunki / Narpio" information="Tuulivoimala" Latitude="62.2837184" Longitude="21.3682567"/>
+	<marker label="Oulunsalo" information="Tuulivoimala" Latitude="64.9388024" Longitude="25.4303833"/>
+	<marker label="Kokkola" information="Tuulivoimala" Latitude="63.8384908" Longitude="23.1304813"/>
+	<marker label="Kumlingen" information="Tuulivoimala" Latitude="60.2452779" Longitude="20.8038470"/>
+	<marker label="Raahe, Pertunmatala" information="Tuulivoimala" Latitude="64.7500000" Longitude="24.4166667"/>
+	<marker label="Raahe, Ulkonahkiainen" information="Tuulivoimala" Latitude="64.6000000" Longitude="23.9000000"/>
+	<marker label="Pori, Tahkoluoto" information="Tuulivoimala" Latitude="61.6333168" Longitude="21.4166604"/>
+	<marker label="Ii, Laitakari" information="Tuulivoimala" Latitude="65.4012926" Longitude="25.2692927"/>
+	<marker label="Ii, Olhava (Nyby)" information="Tuulivoimala" Latitude="65.4639626" Longitude="25.3784417"/>
+	<marker label="Kauhajoki " information="Tuulivoimala" Latitude="62.4235750" Longitude="22.1758698"/>
+	<marker label="Kauhava, Kortesjarvi / Isonnevanmaki" information="Tuulivoimala" Latitude="63.1011971" Longitude="23.0650223"/>
+	<marker label="Honkajoki, Kirkkokallio" information="Tuulivoimala" Latitude="61.9804401" Longitude="22.2822565"/>
+	<marker label="Ii Olhava" information="Tuulivoimala" Latitude="65.4651996" Longitude="25.3723719"/>
+	<marker label="Lappeenranta, Muukonkangas" information="Tuulivoimala" Latitude="61.0549412" Longitude="28.1896259"/>
+	<marker label="Merijarvi, Ristivuori " information="Tuulivoimala" Latitude="64.2972365" Longitude="24.4465313"/>
+	<marker label="Pori, Peittoonkorpi" information="Tuulivoimala" Latitude="61.6332039" Longitude="21.6637323"/>
+	<marker label="Raahe, Kopsa I-vaihe" information="Tuulivoimala" Latitude="64.6846329" Longitude="24.4790186"/>
+	<marker label="Simo, Leipio" information="Tuulivoimala" Latitude="65.6876283" Longitude="25.0536490"/>
+	<marker label="Teuva" information="Tuulivoimala" Latitude="62.4795347" Longitude="21.7391117"/>
+	<marker label="Simo, Onkalo" information="Tuulivoimala" Latitude="65.6222916" Longitude="25.0581989"/>
+	<marker label="Simo, Putaankangas" information="Tuulivoimala" Latitude="65.6519779" Longitude="25.0009809"/>
+	<marker label="Huittinen, Pahkionvuori" information="Tuulivoimala" Latitude="61.1760632" Longitude="22.6980710"/>
+	<marker label="Vaasa, Sundom" information="Tuulivoimala" Latitude="63.0366219" Longitude="21.5504796"/>
+	<marker label="Kemi, Ajos" information="Tuulivoimala" Latitude="65.6758865" Longitude="24.5807973"/>
+	<marker label="Hamina, Makelankangas" information="Tuulivoimala" Latitude="60.5493069" Longitude="27.0771292"/>
+	<marker label="Ii, Olhava" information="Tuulivoimala" Latitude="65.4651996" Longitude="25.3723719"/>
+	<marker label="Tervola, Varevaara" information="Tuulivoimala" Latitude="66.0805024" Longitude="24.8109033"/>
+	<marker label="Hamina, Summa" information="Tuulivoimala" Latitude="60.5649533" Longitude="27.1213264"/>
+	<marker label="Raahe, Raahe II" information="Tuulivoimala" Latitude="64.5623039" Longitude="24.7454696"/>
+	<marker label="Tornio, Roytta" information="Tuulivoimala" Latitude="65.7625469" Longitude="24.1616001"/>
+	<marker label="Pori, Pori offshore I" information="Tuulivoimala" Latitude="61.4851997" Longitude="21.7974444"/>
+	<marker label="Ii Laitakari" information="Tuulivoimala" Latitude="65.4012926" Longitude="25.2692927"/>
+	<marker label="Pori  Tahkoluoto" information="Tuulivoimala" Latitude="61.6333168" Longitude="21.4166604"/>
+	<marker label="Petajaskoski, Rovaniemi" information="Vesivoimala" Latitude="66.2715749" Longitude="25.3337099"/>
+	<marker label="Pyhakoski, Muhos" information="Vesivoimala" Latitude="64.8537843" Longitude="26.1178163"/>
+	<marker label="Seitakorva" information="Vesivoimala" Latitude="66.4377199" Longitude="27.3473660"/>
+	<marker label="Taivalkoski" information="Vesivoimala" Latitude="65.5750303" Longitude="28.2434186"/>
+	<marker label="Pirttikoski, Rovaniemi" information="Vesivoimala" Latitude="66.3421296" Longitude="27.1487625"/>
+	<marker label="Isohaara, Keminmaa" information="Vesivoimala" Latitude="65.7918008" Longitude="24.5370885"/>
+	<marker label="Ossauskoski" information="Vesivoimala" Latitude="66.1550244" Longitude="25.1296935"/>
+	<marker label="Vanttauskoski" information="Vesivoimala" Latitude="66.3776377" Longitude="26.6816372"/>
+	<marker label="Pamilo" information="Vesivoimala" Latitude="62.8006271" Longitude="30.4281265"/>
+	<marker label="Nuojua" information="Vesivoimala" Latitude="64.5667846" Longitude="26.6662047"/>
+	<marker label="Harjavalta" information="Vesivoimala" Latitude="61.3137102" Longitude="22.1413063"/>
+	<marker label="Valajaskoski" information="Vesivoimala" Latitude="62.2472867" Longitude="25.8702878"/>
+	<marker label="Melo, Nokia" information="Vesivoimala" Latitude="61.4631299" Longitude="23.4373448"/>
+	<marker label="Raasakka, Ii" information="Vesivoimala" Latitude="65.3212354" Longitude="25.5134672"/>
+	<marker label="Tainionkoski, Imatra" information="Vesivoimala" Latitude="61.2101815" Longitude=",8.7799190"/>
+	<marker label="Utanen" information="Vesivoimala" Latitude="64.7362386" Longitude="26.4790378"/>
+	<marker label="Jylhama" information="Vesivoimala" Latitude="64.5707704" Longitude="26.7772532"/>
+	<marker label="Palli, Muhos" information="Vesivoimala" Latitude="64.8075384" Longitude="25.9942517"/>
+	<marker label="Aittokoski, Suomussalmi" information="Vesivoimala" Latitude="64.8841107" Longitude="28.9116560"/>
+	<marker label="Kolsi, Kokemaki" information="Vesivoimala" Latitude="61.2727057" Longitude="22.3598387"/>
+	<marker label="Montta, Muhos" information="Vesivoimala" Latitude="64.8425980" Longitude="26.0078030"/>
+	<marker label="Pahkakoski" information="Vesivoimala" Latitude="63.3210481" Longitude="30.1461673"/>
+	<marker label="Merikoski, Oulu" information="Vesivoimala" Latitude="65.0217122" Longitude="25.4850889"/>
+	<marker label="Maalismaa, Oulu" information="Vesivoimala" Latitude="65.0126148" Longitude="25.4714526"/>
+	<marker label="Seitenoikea, Ristijarvi" information="Vesivoimala" Latitude="64.5914123" Longitude="28.4185376"/>
+	<marker label="Kierikki, Oulu" information="Vesivoimala" Latitude="65.3588455" Longitude="25.9128540"/>
+	<marker label="Anjalankoski, Kouvola" information="Vesivoimala" Latitude="60.7500000" Longitude="26.8236110"/>
+	<marker label="Haapakoski, Oulu" information="Vesivoimala" Latitude="64.8637788" Longitude="25.5103904"/>
+	<marker label="Jumisko, Kemijarvi" information="Vesivoimala" Latitude="66.7136282" Longitude="27.4292062"/>
+	<marker label="Kuusankoski" information="Vesivoimala" Latitude="60.9070054" Longitude="26.6243343"/>
+	<marker label="Voikkaa, Kouvola" information="Vesivoimala" Latitude="60.9412608" Longitude="26.6195357"/>
+	<marker label="Mankala, Iitti" information="Vesivoimala" Latitude="60.9174988" Longitude="26.1824801"/>
+	<marker label="Kaltimo, Joensuu" information="Vesivoimala" Latitude="62.7990517" Longitude="30.1555971"/>
+	<marker label="Ahvenkoski, Pyhtaa" information="Vesivoimala" Latitude="60.5002479" Longitude=",6.4853679"/>
+	<marker label="Myllykoski" information="Vesivoimala" Latitude="60.7648570" Longitude="26.7858471"/>
+	<marker label="Paltamo" information="Vesivoimala" Latitude="64.4030430" Longitude="27.8381469"/>
+	<marker label="Kuurna, Kontiolahti" information="Vesivoimala" Latitude="62.6965031" Longitude="29.8953457"/>
+	<marker label="Keltti, Kouvola" information="Vesivoimala" Latitude="60.8784251" Longitude="26.6053342"/>
+	<marker label="Lieksankoski, Lieksa" information="Vesivoimala" Latitude="63.3384310" Longitude="30.0317079"/>
+	<marker label="Amma, Suomussalmi" information="Vesivoimala" Latitude="64.8801673" Longitude="28.9156218"/>
+	<marker label="Pankakoski, Lieksa" information="Vesivoimala" Latitude="63.3210481" Longitude="30.1461673"/>
+	<marker label="Kallioinen, Sotkamo" information="Vesivoimala" Latitude="64.0974955" Longitude="28.8633931"/>
+	<marker label="Aetsa, Sastamala" information="Vesivoimala" Latitude="61.2934394" Longitude="22.7051351"/>
+	<marker label="Katerma, Kuhmo" information="Vesivoimala" Latitude="64.0891876" Longitude="29.0167614"/>
+	<marker label="Vuolenkoski, Iitti" information="Vesivoimala" Latitude="61.0862274" Longitude="26.1696975"/>
+	<marker label="Permantokoski" information="Vesivoimala" Latitude="66.4927234" Longitude="26.1270677"/>
+	<marker label="Korkeakoski" information="Vesivoimala" Latitude="61.7975319" Longitude="24.3698290"/>
+	<marker label="Palokki, Heinavesi" information="Vesivoimala" Latitude="62.5710172" Longitude="28.5792684"/>
+	<marker label="Tammerkoski, keskiputous, Tampere" information="Vesivoimala" Latitude="61.4981508" Longitude="23.7610254"/>
+	<marker label="Tammerkoski, ylaputous, Tampere" information="Vesivoimala" Latitude="61.4981508" Longitude="23.7610254"/>
+	<marker label="Puntarikoski, Kontiolahti" information="Vesivoimala" Latitude="62.6870750" Longitude="29.6485720"/>
+	<marker label="Huruskoski, Varkaus" information="Vesivoimala" Latitude="62.3118817" Longitude="27.8778704"/>
+	<marker label="Klasaro, Pyhtaa" information="Vesivoimala" Latitude="60.5367683" Longitude="26.5159220"/>
+	<marker label="Vaajakoski, Jyvaskyla" information="Vesivoimala" Latitude="62.2472867" Longitude="25.8702878"/>
+	<marker label="Kuhankoski, Laukaa" information="Vesivoimala" Latitude="62.3743922" Longitude="25.9594415"/>
+	<marker label="Ruskeakoski, Joensuu" information="Vesivoimala" Latitude="62.4268588" Longitude="30.4411012"/>
+	<marker label="Koivukoski, Kotka" information="Vesivoimala" Latitude="60.8481563" Longitude="23.0263299"/>
+	<marker label="Venetpalo, Karsamaki" information="Vesivoimala" Latitude="63.8958830" Longitude="25.7950455"/>
+	<marker label="Vaarakoski, Tohmajarvi" information="Vesivoimala" Latitude="62.2139201" Longitude="30.4995248"/>
+	<marker label="Kuokkastenkoski, Nurmes" information="Vesivoimala" Latitude="63.5407488" Longitude="28.9551713"/>
+	<marker label="Saario" information="Vesivoimala" Latitude="62.2545628" Longitude="30.4978069"/>
+	<marker label="Juntolankoski, Paimio" information="Vesivoimala" Latitude="60.4568764" Longitude="22.6870261"/>
+	<marker label="Vihtakoski, Joensuu" information="Vesivoimala" Latitude="62.3825596" Longitude="30.4625221"/>
+	<marker label="Askalankoski, Paimio" information="Vesivoimala" Latitude="60.4568764" Longitude="22.6870261"/>
+	<marker label="Tammerkoski, Alakoski, Tampere" information="Vesivoimala" Latitude="61.4981508" Longitude="23.7610254"/>
+	<marker label="Puhos, Kitee" information="Vesivoimala" Latitude="62.0856495" Longitude="29.9045061"/>
+	<marker label="Jokioinen" information="Vesivoimala" Latitude="60.8038426" Longitude="23.4857583"/>
+	<marker label="Kalliokoski (Pyhajarvi)" information="Vesivoimala" Latitude="63.6811993" Longitude="25.9815064"/>
+	<marker label="Vesikoski, Pyhajarvi" information="Vesivoimala" Latitude="63.6811993" Longitude="25.9815064"/>
+	<marker label="Pappilankoski, Eurajoki" information="Vesivoimala" Latitude="61.2023562" Longitude="21.7339845"/>
+	<marker label="Arrakoski, Padasjoki" information="Vesivoimala" Latitude="61.3855159" Longitude="25.1868136"/>
+	<marker label="Hourunkoski (Pyhajoki)" information="Vesivoimala" Latitude="64.4650530" Longitude="24.2625148"/>
+	<marker label="Louhikoski, Nurmes" information="Vesivoimala" Latitude="63.7380312" Longitude="29.2432075"/>
+	<marker label="Nahkionkoski, Karkkila" information="Vesivoimala" Latitude="60.5350616" Longitude="24.2092901"/>
+	<marker label="Juvankoski" information="Vesivoimala" Latitude="63.0660831" Longitude="28.3308111"/>
+	<marker label="Haapakoski (Haapavesi)" information="Vesivoimala" Latitude="64.1415150" Longitude="25.3043821"/>
+	<marker label="Makkarakoski" information="Vesivoimala" Latitude="64.1656851" Longitude="24.0892405"/>
+	<marker label="Vanhankaupunginkoski, Helsinki" information="Vesivoimala" Latitude="60.1733244" Longitude="24.9410248"/>
+	<marker label="Kantturakoski, Virolahti" information="Vesivoimala" Latitude="60.5828728" Longitude="27.7068983"/>
+	<marker label="Eurakoski" information="Vesivoimala" Latitude="61.2072436" Longitude="22.0836096"/>
+</markers>

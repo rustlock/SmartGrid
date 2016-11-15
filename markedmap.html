@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!-- Green power map by Rene Kuusisto
+	 This program collects information from an XML file to present wind- and waterpower generators in Finland  -->
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<meta charset="utf-8">
+<title>Kuusisto Energiaprojekti</title>
+<style>
+	html, body
+	{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	}
+
+	#map_canvas
+	{
+		height: 100%;
+	}    
+</style>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://gmaps-samples-v3.googlecode.com/svn/trunk/xmlparsing/util.js"></script>
+<script>
+	var infowindow;
+	var map;
+
+	//creates the google map
+	function initialize()
+	{
+		var mapOptions =
+		{
+			zoom: 3,
+			center: new google.maps.LatLng(64.1653644,24.3077578), //focuses the initial location on finland
+			mapTypeId: google.maps.MapTypeId.ROADMAP //uses the easier-to-read roadmap variant
+  		};
+		map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions); //previous information from map_canvas and mapOptions is called to create the map
+		downloadUrl("markers3.xml", function(data) //loads facility information from the .xml file
+		{
+			var bounds = new google.maps.LatLngBounds(); //bounds are used to zoom the map at the start
+			var markers = data.documentElement.getElementsByTagName("marker");
+			for (var i = 0; i < markers.length; i++) //we parse the longitude and latitude information from the .xml file to create markers on the map
+			{
+				var latlng = new google.maps.LatLng(parseFloat(markers[i].getAttribute("Latitude")),
+				parseFloat(markers[i].getAttribute("Longitude")));
+				bounds.extend(latlng);
+				var marker = createMarker(markers[i].getAttribute("information"), latlng, markers[i].getAttribute("label")); //marker is created with the information gathered
+			}
+			map.fitBounds(bounds); //makes the map neatly fit all the markers in it
+		});
+	}
+
+	function createMarker(information, latlng, label) //facilitates the marker creation and placement
+	{
+		if (information=="Tuulivoimala") //checks what type of marker to create, wind or water
+		{
+			var marker = new google.maps.Marker
+			({
+			position: latlng,
+			map: map,
+			icon:'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png'
+			});
+		};
+			
+		if (information=="Vesivoimala")
+		{
+			var marker = new google.maps.Marker
+			({
+			position: latlng,
+			map: map,
+			icon:'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
+			});
+		};
+		google.maps.event.addListener(marker, "click", function() //markers are made to listen for user input, clicking reveals additional information
+		{
+			if (infowindow) infowindow.close();
+			infowindow = new google.maps.InfoWindow({content: label + '<br>' + information}); //infowindow shows the name of the area and facility type
+			infowindow.open(map, marker);
+		});
+		return marker;
+	}
+</script>
+</head>
+<body onload="initialize()" >
+<div id="map_canvas"></div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
+</script> 
+<script type="text/javascript"> 
+</script> 
+</body>
+</html>

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+          html {
+            width: 100%;
+            height: 100%;
+          }
+
+          body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+          }
+
+          #map_canvas {
+            width: 100%;
+            height: 100%;
+          }
+        </style>
+ 
+        <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    </head>
+    <body onload="initialize()">
+        <div id="map_canvas"></div>
+ 
+        <script>
+
+        function createMarker(width, height, radius) {
+
+          var canvas, context;
+
+          canvas = document.createElement("canvas");
+          canvas.width = width;
+          canvas.height = height;
+
+          context = canvas.getContext("2d");
+
+          context.clearRect(0,0,width,height);
+
+          // background is yellow
+          context.fillStyle = "rgba(255,255,0,1)";
+
+          // border is black
+          context.strokeStyle = "rgba(0,0,0,1)";
+
+          context.beginPath();
+          context.moveTo(radius, 0);
+          context.lineTo(width - radius, 0);
+          context.quadraticCurveTo(width, 0, width, radius);
+          context.lineTo(width, height - radius);
+          context.quadraticCurveTo(width, height, width - radius, height);
+          context.lineTo(radius, height);
+          context.quadraticCurveTo(0, height, 0, height - radius);
+          context.lineTo(0, radius);
+          context.quadraticCurveTo(0, 0, radius, 0);
+          context.closePath();
+
+          context.fill();
+          context.stroke();
+
+          return canvas.toDataURL();
+
+        }
+
+
+        // example
+        function initialize() {
+        	
+
+          // creating a map
+          var map = new google.maps.Map(document.getElementById("map_canvas"), {
+            zoom: 16,
+            center: new google.maps.LatLng(63.03653767934856,21.550476551055908),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+            
+          });
+          
+
+          // creating a marker
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.0370630614098,21.56792163848877),
+              map: map,
+              title:"Öjberget",
+              icon: createMarker(25, 25, 4)
+          });
+          
+          var image = 'library.png'
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.04119768226351,21.556978225708008),
+              map: map,
+              title:"Kirjasto",
+              icon: image
+          });
+          
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.03662524368309,21.550326347351074),
+              map: map,
+              title:"Asukkaat",
+              icon: createMarker(25, 25, 4)
+          });
+
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.03801650836998,21.548781394958496),
+              map: map,
+              title:"Urheilukenttä",
+              icon: createMarker(25, 25, 4)
+          });
+
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.04301672962135,21.558008193969727),
+              map: map,
+              title:"Päiväkoti",
+              icon: createMarker(25, 25, 4)
+          });
+
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.02186439999999,21.46416780000004),
+              map: map,
+              title:"Lomakeskus Saukkoranta",
+              icon: createMarker(25, 25, 4)
+          });
+
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.0323709,21.54673439999999),
+              map: map,
+              title:"K-Market",
+              icon: createMarker(25, 25, 4)
+          });
+
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.0407606,21.553642500000024),
+              map: map,
+              title:"Grilliravintola",
+              icon: createMarker(25, 25, 4)
+          });
+
+          var image = 'pension.png'
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.0295496,21.54641360000005),
+              map: map,
+              title:"Eläkeläiskoti",
+              icon: image
+          });
+
+          var image = 'windfarm.png'
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.056184412561244,21.552000045776367),
+              map: map,
+              title:"Tuulivoimala",
+              icon: image,
+              label: {
+                  text: '3600 kWh',
+                  fontWeight: 'bold',
+                  fontSize: '18px',
+                  fontFamily: '"Courier New", Courier,Monospace',
+                  color: 'black',
+                }
+          });
+
+          var image = 'solarfarm.png'
+          var marker = new google.maps.Marker({
+              position: new google.maps.LatLng(63.04144087698854,21.5606689453125),
+              map: map,
+              title:"Aurinkopaneeleja",
+              icon: image,
+              label: {
+                  text: '28300 kWh',
+                  fontWeight: 'bold',
+                  fontSize: '18px',
+                  fontFamily: '"Courier New", Courier,Monospace',
+                  color: 'black',
+                }
+          });
+
+        }
+        
+
+        </script>
+    </body>
+</html>
